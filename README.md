@@ -2,4 +2,4 @@
 
 A new Flutter project.
 
-![Demo](demo.gif)
+![Demo](_demo.gif)
